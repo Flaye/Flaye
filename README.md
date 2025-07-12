@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Tom
 
-<!--
-**Flaye/Flaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a **Software & Data Engineer** based in Paris, open to opportunities in **Zurich**.  
+💡 Passionate about building scalable data pipelines, APIs and backend services using Python, Spark, and cloud platforms.  
+🎓 Engineer’s Degree in Big Data & AI from ESILV, with international experience in Dublin.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+
+- 🏢 **Sopra Steria** – Software & Data Engineer  
+  Built production-grade pipelines for Enedis, Paris Airports & La Poste (Python, Spark, Airflow, FastAPI).
+
+- 🧪 Former intern @ **Predictice** and **Sopra Steria**  
+  Hands-on work on distributed systems, data cleaning, and microservices architecture.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**: Python, SQL, Java, C#, JavaScript  
+**Data & Cloud**: Spark, PySpark, Kafka, RabbitMQ, Airflow, Docker, AWS, GCP (BigQuery, Dataflow)  
+**Web & APIs**: FastAPI, Flask, React  
+**CI/CD & Tools**: Azure Pipeline, Rancher, Docker, Linux, PostgreSQL  
+**Methodologies**: Agile, TDD, DevOps mindset
+
+---
+
+## 🤝 Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/tom-payet-777670171)
+- 📧 tompayet.apply@gmail.com
