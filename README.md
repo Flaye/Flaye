@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tom
 
-🎯 I'm a **Software & Data Engineer** based in Paris, open to opportunities in **Zurich**.  
+🎯 I'm a **Software & Data Engineer** based in Paris, open to new opportunities.  
 💡 Passionate about building scalable data pipelines, APIs and backend services using Python, Spark, and cloud platforms.  
 🎓 Engineer’s Degree in Big Data & AI from ESILV, with international experience in Dublin.  
 
